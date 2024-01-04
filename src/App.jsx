@@ -10,6 +10,8 @@ function App() {
           <h4>login</h4>
         </div>
       </nav>
+
+      <h1>JOHN WESLEY</h1>
     </div>
   );
 }
