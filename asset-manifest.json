@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anand-trading/static/css/main.7337e969.css",
+    "main.js": "/anand-trading/static/js/main.1fa17b19.js",
+    "static/js/787.867d467c.chunk.js": "/anand-trading/static/js/787.867d467c.chunk.js",
+    "static/media/logo-1080x1080.jpg": "/anand-trading/static/media/logo-1080x1080.ececf9dbbd897990d0b6.jpg",
+    "index.html": "/anand-trading/index.html",
+    "main.7337e969.css.map": "/anand-trading/static/css/main.7337e969.css.map",
+    "main.1fa17b19.js.map": "/anand-trading/static/js/main.1fa17b19.js.map",
+    "787.867d467c.chunk.js.map": "/anand-trading/static/js/787.867d467c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7337e969.css",
+    "static/js/main.1fa17b19.js"
+  ]
+}
