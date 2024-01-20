@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/anand-trading/static/css/main.7337e969.css",
-    "main.js": "/anand-trading/static/js/main.b3249945.js",
+    "main.css": "/anand-trading/static/css/main.c7d55439.css",
+    "main.js": "/anand-trading/static/js/main.64e95d53.js",
     "static/js/787.867d467c.chunk.js": "/anand-trading/static/js/787.867d467c.chunk.js",
-    "static/media/logo-1080x1080.jpg": "/anand-trading/static/media/logo-1080x1080.ececf9dbbd897990d0b6.jpg",
+    "static/media/6.jpg": "/anand-trading/static/media/6.599f495a81d6c5be1218.jpg",
+    "static/media/5.jpg": "/anand-trading/static/media/5.67a59dcd146cd2f8095a.jpg",
+    "static/media/3.jpg": "/anand-trading/static/media/3.30f78d28629bae532aa5.jpg",
+    "static/media/sm-word-cloud.jpg": "/anand-trading/static/media/sm-word-cloud.9061072c131c43d23297.jpg",
+    "static/media/logo.jpg": "/anand-trading/static/media/logo.c7cad6b844fa7ed463bb.jpg",
+    "static/media/4.jpg": "/anand-trading/static/media/4.6754b877eecb755e8475.jpg",
+    "static/media/1.jpg": "/anand-trading/static/media/1.efa3a42eb5851141e8e8.jpg",
+    "static/media/2.webp": "/anand-trading/static/media/2.94bd4cdf32cfc839af4c.webp",
     "index.html": "/anand-trading/index.html",
-    "main.7337e969.css.map": "/anand-trading/static/css/main.7337e969.css.map",
-    "main.b3249945.js.map": "/anand-trading/static/js/main.b3249945.js.map",
+    "main.c7d55439.css.map": "/anand-trading/static/css/main.c7d55439.css.map",
+    "main.64e95d53.js.map": "/anand-trading/static/js/main.64e95d53.js.map",
     "787.867d467c.chunk.js.map": "/anand-trading/static/js/787.867d467c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7337e969.css",
-    "static/js/main.b3249945.js"
+    "static/css/main.c7d55439.css",
+    "static/js/main.64e95d53.js"
   ]
 }
